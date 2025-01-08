@@ -1,0 +1,77 @@
+header{
+    background-color:black;
+    text-align: center;
+    background-image: url('backgroundport.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+}
+header h1{
+    color: rgb(26, 104, 172);
+    padding: 10px;
+}
+header nav ul li{
+    color: sandybrown;
+    display: inline;
+    padding: 20px;
+}
+header nav ul li a{
+    color: sandybrown;
+    text-decoration: none;
+}
+#Home h2{
+    text-align: center;
+}
+
+#Home img{
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 600px;
+}
+
+#Bio{
+    text-align: center;
+}
+
+#Bio pre{
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+#Portfolio h2{
+    text-align: center;
+}
+
+#Portfolio h3{
+    text-align: center;
+}
+
+#Portfolio pre{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#Portfolio pre{
+    background-color: darksalmon;
+
+}
+
+#Skills h2{
+    text-align: center;
+}
+
+#Skills ul li{
+    display: inline;
+    padding: 50px;
+}
+
+#Contact h2{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+body{
+    background-image: url('backport.jpg');
+}
