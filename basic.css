@@ -75,3 +75,8 @@ footer{
 body{
     background-image: url('backport.jpg');
 }
+
+footer pre{
+    background-color: darkgrey;
+    font-family: 'Times New Roman', Times, serif;
+}
